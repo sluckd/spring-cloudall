@@ -10,7 +10,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
 /**
  * 
  * 类名称    ： EurekaServer.java
- * 类描述    ： 
+ * 类描述    ： eureka服务注册中心
  * 创建人    ：suyunduo
  * 创建时间：2021年1月23日 上午10:38:38
  * 修改人    ：suyunduo 
